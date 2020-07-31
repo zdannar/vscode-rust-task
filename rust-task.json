@@ -8,7 +8,7 @@
 				"$rustc"
 			],
 			"group": "build",
-			"label": "Rust: cargo build - helloworld"
+			"label": "Rust: cargo build"
 		},
 		{
 			"type": "cargo",
@@ -17,7 +17,7 @@
 				"$rustc"
 			],
 			"group": "build",
-			"label": "Rust: cargo test - helloworld"
+			"label": "Rust: cargo test"
 		},
 		{
 			"type": "cargo",
@@ -26,7 +26,7 @@
 				"$rustc"
 			],
 			"group": "build",
-			"label": "Rust: cargo run - helloworld"
+			"label": "Rust: cargo run"
 		},
 		{
 			"type": "cargo",
@@ -35,7 +35,7 @@
 				"$rustc"
 			],
 			"group": "build",
-			"label": "Rust: cargo check - helloworld"
+			"label": "Rust: cargo check"
 		}
 	]
 
